@@ -17,6 +17,8 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 这个项目分析了英国一家在线零售商店的真实销售数据，时间跨度为2010年12月至2011年12月
 通过数据清洗和分析，揭示了销售规律、客户行为等重要商业洞察
 
+数据：https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
+
 一、核心指标解析
 1. 数据基本情况
 - 原始数据：541,909条交易记录
@@ -186,6 +188,7 @@ Python, Pandas, Scikit-learn,RandomForest，XGBoost, Matplotlib.......
 通过这样的分析，就能用用数据驱动决策，而不是凭感觉做生意，这还是挺重要的
 
 @徐宏辉xuh0nghu1
+
 
 
 
